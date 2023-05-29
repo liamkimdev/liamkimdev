@@ -10,8 +10,8 @@ I've always been a curious learner with a passion for creating things. While stu
 *   ✉️  You can contact me at [liam.kim744@gmail.com](mailto:liam.kim744@gmail.com)
 *   🚀  I'm currently working on [Productivity Dashboard Application](http://github.com/liamkimdev/productivity-dashboard-app)
 *   🤝  I'm open to collaborating on unique and enjoyable projects!
-*   ⚡  In addition to my love for software development, I enjoy weightlifting, singing, watching movies, having conversations, and spending quality time with people.<a href="https://www.github.com/liamkimdev" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/liamkimdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+*   ⚡  In addition to my love for software development, I enjoy weightlifting, singing, watching movies, having conversations, and spending quality time with people.
+                  ### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
