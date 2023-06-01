@@ -49,4 +49,4 @@ src="https://img.shields.io/github/followers/liamkimdev?logo=github&style=for-th
 <div width="100%" align="center"><a href="https://github.com/liamkimdev/ride-on-capstone-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=liamkimdev&repo=ride-on-capstone-project&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/liamkimdev/productivity-dashboard-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=liamkimdev&repo=productivity-dashboard-app&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 </br>
-<a href="https://youtu.be/Z46bfoKdS5E?t=57" target="_blank">By the way, I'm on YouTube!</a>
+<a href="https://youtu.be/Z46bfoKdS5E?t=57" target="_blank">*** By the way, I'm on YouTube! ***</a>
